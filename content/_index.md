@@ -7,4 +7,8 @@ Hola ✌️  soy el explorer JeronimoM11 y este es mi blog personal donde compar
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+En este curso deseo reafirmar mis conocimientos y aprender mas sobre BackEnd - FrontEnd,
+sobre como desarrollar paginas web, aplicaciones entre otras mas.
+
+
 🚀
